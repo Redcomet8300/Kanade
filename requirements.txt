@@ -1,0 +1,6 @@
+discord.py
+pandas
+numpy
+yfinance
+requests
+python-dotenv
